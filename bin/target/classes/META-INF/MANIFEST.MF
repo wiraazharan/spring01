@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: testwira
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wiraazharan
+Implementation-Vendor-Id: com.wiraazharan.testwira
+Build-Jdk: 1.8.0_25
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
